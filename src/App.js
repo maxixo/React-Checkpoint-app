@@ -4,11 +4,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 
-
+//App Component 
 function App() {
   return (
     <React.Fragment>
-      <div className="App">
+      <div className="App">  
         <Navbar bg="dark" variant="dark" expand="lg">
           <Container>
             <Navbar.Brand href="#home">My App</Navbar.Brand>
